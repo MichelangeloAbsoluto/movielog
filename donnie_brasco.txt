@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Directed by Mike Newell, Written by Paul Attanasio
 Movie drags in the first half but turns into a really solid movie by the second half. As soon as they go to Florida. Nothing about the directing struck me as ingenious or even particularly clever, but there were were some very memorable scenes of great acting. Like the scene of Al Pacino and Depp in the car when Pacino shows Depp the picture of the yacht in a magazine as an "FBI boat" and explains if Depp is undercover then Pacino is ruined. Pacino really feels like a guy who craves respect and never get his fair share. 
+=======
+Directed by Mike Newell, Written by Paul Attanasio 
+>>>>>>> crewDetails
