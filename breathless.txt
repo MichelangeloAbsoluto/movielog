@@ -1,2 +1,8 @@
 1983. Directed by Jim McBride. Written by Kit Carson & McBride. 
+<<<<<<< HEAD
 This Breathless is an American remake of the French Breathless. I enjoy this movie much more-- it is obsessed with 'the cool'. Everything in the movie (dialogue, cinematography, music, camera movement, human movement) serves the purpose of making Richard Gere appear cool.
+Lesson: Know first shot and last shot and try to lead one into the other without a cut. 
+=======
+This Breathless is an American remake of the French Breathless. I enjoy this movie much more-- it is obsessed with 'the cool'. Everything in the movie (dialogue, cinematography, music, camera movement, human movement) serves the purpose of making Richard Gere appear cool.  
+Lesson: Know first shot and last shot and try to lead one into the other without a cut. 
+>>>>>>> crewDetails

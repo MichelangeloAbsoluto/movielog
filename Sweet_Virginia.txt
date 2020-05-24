@@ -1,5 +1,9 @@
 <<<<<<< HEAD
 2017. Directed by Jamie M. Dagg. Written by Benjamin & Paul China. 
-I don't like Jon Bernthal sulking with a beard. Therefore I did not like Sweet Virginia. The hitman played by Christopher Abbott was interesting though. He made interesting choices.
-
-I need to explain something about Jamie M. Dagg. Apparently, he wanted to set this movie in Alaska originally. Why though?
+<<<<<<< HEAD
+I don't like Jon Bernthal sulking with a beard. Therefore I did not like Sweet Virginia. The hitman played by Christopher Abbott was interesting though. 
+Lesson: Laconic doesn't work unless there's extra weight behind the few lines he speaks.
+=======
+I don't like Jon Bernthal sulking with a beard. Therefore I did not like Sweet Virginia. The hitman played by Christopher Abbott was interesting though. 
+Lesson: Laconic doesn't work unless there's extra weight behind the few lines he speaks. 
+>>>>>>> crewDetails
